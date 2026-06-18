@@ -10,9 +10,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a results-driven full-stack developer based in Nairobi with **3+ years** of experience building scalable web and mobile applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+I'm a results-driven full-stack developer based in Nairobi with **3+ years** of experience building scalable web and mobile applications. I enjoy turning complex problems into simple, beautiful, and intuitive digital solutions.
 
-- 🔭 Currently building **modern full-stack applications**
+- 🔭 Currently building modern full-stack applications
 - 🌱 Deepening my knowledge in **System Design & Cloud Architecture**
 - 💬 Ask me about **React, Next.js, Flutter, Node.js, TypeScript**
 - 📫 Reach me: **khisaarmstrong@gmail.com**
@@ -23,14 +23,17 @@ I'm a results-driven full-stack developer based in Nairobi with **3+ years** of 
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/YOUR_TWITTER" target="blank">
-    <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+  <a href="https://www.linkedin.com/in/armstrong-khisa-042aa5416" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/khisa318" target="blank">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/blackel._design/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/254703444377" target="blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
@@ -60,7 +63,7 @@ I'm a results-driven full-stack developer based in Nairobi with **3+ years** of 
 
 ---
 
-### 🏆 Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=khisa318&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
@@ -70,11 +73,14 @@ I'm a results-driven full-stack developer based in Nairobi with **3+ years** of 
 
 ### ✨ Featured Projects
 
-> Check out some of my recent work:
+- **[E-commerce Platform](https://github.com/khisa318/ecommerse-flutter-app)**  
+  Full-stack online shopping application with product management and user interactions.
 
-- **[Project Name 1](link)** – Short compelling description (tech stack)
-- **[Project Name 2](link)** – Short compelling description (tech stack)
-- **[Project Name 3](link)** – Short compelling description (tech stack)
+- **[Chama Web & Mobile Application](https://github.com/khisa318/chama-connect-cloud)**  
+  Financial management platform for savings groups and contribution tracking.
+
+- **[Fresnel Journal](https://github.com/khisa318/fresnel-journal-stories)**  
+  Personal journaling platform for creating and managing digital journal entries.
 
 ---
 
