@@ -10,13 +10,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a results-driven full-stack developer based in Nairobi with **3+ years** of experience building scalable web and mobile applications. I enjoy turning complex problems into simple, beautiful, and intuitive digital solutions.
+I'm a results-driven full-stack developer based in Nairobi with **3+ years** of experience building scalable web and mobile applications. Passionate about creating elegant solutions that solve real-world problems and deliver exceptional user experiences.
 
-- 🔭 Currently building modern full-stack applications
-- 🌱 Deepening my knowledge in **System Design & Cloud Architecture**
+- 🔭 Currently working on **full-stack web & mobile products**
+- 🌱 Deepening my knowledge in **System Design, Cloud Architecture & DevOps**
 - 💬 Ask me about **React, Next.js, Flutter, Node.js, TypeScript**
 - 📫 Reach me: **khisaarmstrong@gmail.com**
-- ⚡ Fun fact: I love combining clean code with great UX
+- ⚡ Fun fact: I believe great software is both powerful and delightful to use
 
 ---
 
@@ -39,7 +39,7 @@ I'm a results-driven full-stack developer based in Nairobi with **3+ years** of 
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,nodejs,flutter,dart,python,flask,postgres,mongodb,docker,git,figma" />
@@ -66,7 +66,7 @@ I'm a results-driven full-stack developer based in Nairobi with **3+ years** of 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khisa318&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=khisa318&theme=radical&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
@@ -74,13 +74,13 @@ I'm a results-driven full-stack developer based in Nairobi with **3+ years** of 
 ### ✨ Featured Projects
 
 - **[E-commerce Platform](https://github.com/khisa318/ecommerse-flutter-app)**  
-  Full-stack online shopping application with product management and user interactions.
+  Full-stack online shopping application with product management, cart system, and user interactions.
 
-- **[Chama Web & Mobile Application](https://github.com/khisa318/chama-connect-cloud)**  
-  Financial management platform for savings groups and contribution tracking.
+- **[Chama Connect](https://github.com/khisa318/chama-connect-cloud)**  
+  Financial management platform for savings groups (Chamas) with contribution tracking and web + mobile support.
 
 - **[Fresnel Journal](https://github.com/khisa318/fresnel-journal-stories)**  
-  Personal journaling platform for creating and managing digital journal entries.
+  Personal digital journaling platform for creating, managing, and organizing journal entries.
 
 ---
 
