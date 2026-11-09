@@ -143,35 +143,34 @@
 
 <p align="center">
     <a href="https://github.com/khisa318">
-          <img width="49%" src="https://github-profile-trophy.vercel.app/?username=khisa318&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-    <img width="40%" src="https://holopin.me/khisa318" />
+          <img width="80%" src="https://github-trophies.vercel.app/?username=khisa318&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
   </a>
 </p>
-<p align="center"><img src="https://stardev.io/developers/khisa318/badge/languages/global.svg" width="100%"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<p align="center"><img src="./assets/images/pink_border1.svg" width="100%"></p>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Profile States
 
 <p align="center">
-<a href="https://github.com/khisa318"> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khisa318&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" /><img width="57%" src="https://github-readme-stats.vercel.app/api?username=khisa318&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  </a>
+  <a href="https://github.com/khisa318"><img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khisa318&theme=dark" alt="repos per language" /></a>
+  <a href="https://github.com/khisa318"><img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khisa318&theme=dark" alt="most commit language" /></a>
 </p>
-
-- Note : **Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.**
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<p align="center">
+  <a href="https://github.com/khisa318"><img width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khisa318&theme=dark" alt="GitHub stats" /></a>
+</p>
+<p align="center"><img src="./assets/images/pink_border1.svg" width="100%"></p>
 
 
 ### 📊 GitHub States
 <p align="center">
-<a href="https://github.com/khisa318"><img width="35%" src="https://github-contributor-stats.vercel.app/api?username=khisa318&limit=5&theme=dark&combine_all_yearly_contributions=true" /><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khisa318&theme=dark&hide_border=false" />
+<a href="https://github.com/khisa318"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khisa318&theme=dark&hide_border=false" />
  </a></p>
 <p align="center">
 <a href="https://github.com/khisa318">
-<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khisa318&theme=dark" /><img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=khisa318&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true" />
+<img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khisa318&theme=dark" /><img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khisa318&theme=dark&utcOffset=3" />
   </a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<p align="center"><img src="./assets/images/pink_border1.svg" width="100%"></p>
 
 ## ✨ Vibes
 
@@ -187,27 +186,23 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/khisa318/noize"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khisa318&repo=noize&theme=dark" alt="noize" /></a>
-  <a href="https://github.com/khisa318/music_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khisa318&repo=music_app&theme=dark" alt="music_app" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/khisa318/lost_and_found"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khisa318&repo=lost_and_found&theme=dark" alt="lost_and_found" /></a>
-  <a href="https://github.com/khisa318/music-video-downloader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khisa318&repo=music-video-downloader&theme=dark" alt="music-video-downloader" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/khisa318/Grills-Market-Ecommerse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khisa318&repo=Grills-Market-Ecommerse&theme=dark" alt="Grills-Market-Ecommerse" /></a>
-  <a href="https://github.com/khisa318/reactjs18-3d-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=khisa318&repo=reactjs18-3d-portfolio&theme=dark" alt="reactjs18-3d-portfolio" /></a>
-</p>
+| Repository | Stars | Top language |
+|---|---:|---|
+| [noize](https://github.com/khisa318/noize) – Noize – free open-source YouTube Music client (Flutter) | ![noize stars](https://img.shields.io/github/stars/khisa318/noize?style=social) | ![noize language](https://img.shields.io/github/languages/top/khisa318/noize?style=flat-square) |
+| [music_app](https://github.com/khisa318/music_app) – Music app (Dart/Flutter) | ![music_app stars](https://img.shields.io/github/stars/khisa318/music_app?style=social) | ![music_app language](https://img.shields.io/github/languages/top/khisa318/music_app?style=flat-square) |
+| [lost_and_found](https://github.com/khisa318/lost_and_found) – Lost & found platform (JavaScript) | ![lost_and_found stars](https://img.shields.io/github/stars/khisa318/lost_and_found?style=social) | ![lost_and_found language](https://img.shields.io/github/languages/top/khisa318/lost_and_found?style=flat-square) |
+| [music-video-downloader](https://github.com/khisa318/music-video-downloader) – Music/video downloader (JavaScript) | ![music-video-downloader stars](https://img.shields.io/github/stars/khisa318/music-video-downloader?style=social) | ![music-video-downloader language](https://img.shields.io/github/languages/top/khisa318/music-video-downloader?style=flat-square) |
+| [Grills-Market-Ecommerse](https://github.com/khisa318/Grills-Market-Ecommerse) – Grills market e-commerce (JavaScript) | ![Grills-Market-Ecommerse stars](https://img.shields.io/github/stars/khisa318/Grills-Market-Ecommerse?style=social) | ![Grills-Market-Ecommerse language](https://img.shields.io/github/languages/top/khisa318/Grills-Market-Ecommerse?style=flat-square) |
+| [reactjs18-3d-portfolio](https://github.com/khisa318/reactjs18-3d-portfolio) – 3D developer portfolio (React & Three.js) | ![reactjs18-3d-portfolio stars](https://img.shields.io/github/stars/khisa318/reactjs18-3d-portfolio?style=social) | ![reactjs18-3d-portfolio language](https://img.shields.io/github/languages/top/khisa318/reactjs18-3d-portfolio?style=flat-square) |
 
 <p align="center"><a href="https://armstrong-portfolio-ten.vercel.app/"><b>🌐 View my full portfolio →</b></a></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<p align="center"><img src="./assets/images/pink_border1.svg" width="100%"></p>
 
 <!-- Contribution Snake -->
 <p align="center"><img src="./assets/images/github-contribution-grid-snake.svg"></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<p align="center"><img src="./assets/images/pink_border1.svg" width="100%"></p>
 
 <p align="center">
   <img src="./assets/images/demon-sleyar.gif" width="220" alt="demon slayer gif"/>
